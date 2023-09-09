@@ -1,0 +1,12 @@
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+    margin: 10px;
+}
+main img{
+    width: 95%;
+}
+main video{
+    width: 95%;
+}
